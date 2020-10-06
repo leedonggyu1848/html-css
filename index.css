@@ -5,12 +5,17 @@
 
 .footer-content {
   margin-bottom: 0;
+  overflow: hidden;
 }
 .max-width {
-  width: 100vw;
+  width: 100vmax;
 }
 
 .img-size {
   width: 50%;
   height: auto;
+}
+
+.non-xscroll {
+  overflow-x: hidden;
 }
