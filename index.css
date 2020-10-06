@@ -1,12 +1,8 @@
-.main-content {
+main {
   background-color: #ffffff;
   height: 100vh;
 }
 
-.footer-content {
-  margin-bottom: 0;
-  overflow: hidden;
-}
 .max-width {
   width: 100vmax;
 }
