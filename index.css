@@ -1,8 +1,16 @@
 .main-content {
+  background-color: #ffffff;
   height: 100vh;
-  width: 100vw;
 }
 
 .footer-content {
   margin-bottom: 0;
+}
+.max-width {
+  width: 100vw;
+}
+
+.img-size {
+  width: 50%;
+  height: auto;
 }
