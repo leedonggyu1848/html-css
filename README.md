@@ -1,1 +1,3 @@
-[!equation](a+b)
+```math
+a + b
+```
