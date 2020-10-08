@@ -1,3 +1,3 @@
 ```math
-a + b
+SE = \frac{\sigma}{\sqrt{n}}
 ```
